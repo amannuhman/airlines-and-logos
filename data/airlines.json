@@ -1,0 +1,17 @@
+[
+    {
+      "iata": "AA",
+      "icao": "AAL",
+      "name": "American Airlines",
+      "country": "United States",
+      "logo": "logos/aa.svg"
+    },
+    {
+      "iata": "BA",
+      "icao": "BAW",
+      "name": "British Airways",
+      "country": "United Kingdom",
+      "logo": "logos/ba.svg"
+    }
+  ]
+  
