@@ -2,7 +2,6 @@ iata,icao,name,country
 0V,VFC,VASCO,Vietnam
 2K,GLG,Avianca Ecuador,Ecuador
 2L,OAW,Helvetic Airways,Switzerland
-2N,UMK,Yuzhmashavia,Ukraine
 2P,GAP,PAL Express,Philippines
 2T,TBS,Timbis Air,Kenya
 2Z,PTB,Voepass,Brazil
@@ -16,7 +15,6 @@ iata,icao,name,country
 3U,CSC,Sichuan Airlines,China
 3V,TAY,ASL Airlines Belgium,Belgium
 3W,MWI,Malawi Airlines,Malawi
-3X,JAC,Japan Air Commuter,Japan
 3Z,TVP,Smartwings Poland,Poland
 4A,AKL,Air Kiribati,Kiribati
 4B,BTQ,Boutique Air,United States
@@ -29,18 +27,15 @@ iata,icao,name,country
 5F,FIA,FlyOne,Moldova
 5J,CEB,Cebu Pacific,Philippines
 5K,HFY,Hi Fly,Portugal
-5M,MNT,Montserrat Airways,Montserrat
 5N,AUL,Nordavia,Russia
 5R,RUC,Rutaca,Venezuela
 5W,WAZ,Wizz Air Abu Dhabi,United Arab Emirates
-5X,UPS,United Parcel Service,United States
 5Y,GTI,Atlas Air,United States
 5Z,KEM,CemAir,South Africa
 6A,AMW,Armenia Airways,Armenia
 6B,BLX,TUI fly Nordic,Sweden
 6D,TVQ,Smartwings Slovakia,Slovakia
 6E,IGO,IndiGo,India
-6G,RLX,Go2Sky,Slovakia
 6H,ISR,Israir,Israel
 6J,SNJ,Solaseed Air,Japan
 6N,NIN,Niger Airlines,Niger
@@ -71,8 +66,6 @@ iata,icao,name,country
 9K,KAP,Cape Air,United States
 9M,GLR,Central Mountain Air,Canada
 9P,FJL,Fly Jinnah,Pakistan
-9Y,NAE,National Airways Ethiopia,Ethiopia
-A0,MCJ,Avianca Argentina,Argentina
 A2,AWG,Animawings,Romania
 A3,AEE,Aegean Airlines,Greece
 A5,HOP,Hop!,France
@@ -123,11 +116,9 @@ BW,BWA,Caribbean Airlines,Trinidad and Tobago
 BX,ABL,Air Busan,South Korea
 BY,TOM,TUI Airways,United Kingdom
 BZ,BDA,Blue Dart Aviation,India
-C5,UCA,CommutAir,United States
 CA,CCA,Air China,China
 CD,CND,Corendon Dutch Airlines,Netherlands
 CG,TOK,Airlines PNG,Papua New Guinea
-CH,BMJ,Bemidji Airlines,United States
 CI,CAL,China Airlines,Taiwan
 CJ,CFE,BA CityFlyer,United Kingdom
 CL,CLH,Lufthansa CityLine,Germany
@@ -135,17 +126,14 @@ CM,CMP,Copa Airlines,Panama
 CO,COA,Continental Airlines,United States
 CU,CUB,Cubana,Cuba
 CV,CVA,Air Chathams,New Zealand
-CW,CWM,Air Marshall Islands,Marshall Islands
 CX,CPA,Cathay Pacific,Hong Kong
 CY,CYP,Cyprus Airways,Cyprus
 CZ,CSN,China Southern Airlines,China
-D0,DHK,DHL Air Limited,United Kingdom
 D2,SSF,Severstal Avia,Russia
 D3,DAO,Daallo Airlines,Djibouti
 D4,LID,Alidaunia,Italy
 D7,XAX,AirAsia X,Malaysia
 D8,NSZ,Norwegian Air Sweden,Sweden
-DA,GRG,Air Georgia,Georgia
 TF,BRX,Braathens Regional Airways,Sweden
 DD,NOK,Nok Air,Thailand
 DE,CFG,Condor,Germany
@@ -166,9 +154,7 @@ EC,EJU,easyJet Europe,Austria
 ED,AXE,AirExplore,Slovakia
 EG,EUK,Aer Lingus UK,United Kingdom
 EI,EIN,Aer Lingus,Ireland
-EJ,NEA,New England Airlines,United States
 EK,UAE,Emirates Airlines,United Arab Emirates
-EM,CFS,Empire Airlines,United States
 EN,DLA,Air Dolomiti,Italy
 EP,IRC,Iran Aseman Airlines,Iran
 ES,DHX,DHL International,Bahrain
@@ -186,7 +172,6 @@ FG,AFG,Ariana Afghan Airlines,Afghanistan
 FH,FHY,Freebird Airlines,Turkey
 FI,ICE,Icelandair,Iceland
 FJ,FJI,Fiji Airways,Fiji
-FK,KEW,Keewatin Air,Canada
 FM,CSH,Shanghai Airlines,China
 FN,RGL,Regional Air Lines,Morocco
 FO,FBZ,Flybondi,Argentina
@@ -202,7 +187,6 @@ G5,HXA,China Express Airlines,China
 G7,GJS,GoJet Airlines,United States
 G9,ABY,Air Arabia,United Arab Emirates
 GA,GIA,Garuda Indonesia,Indonesia
-GC,GNR,Gambia International Airlines,Gambia
 GF,GFA,Gulf Air,Bahrain
 GI,LHA,Longhao Airlines,China
 GJ,CDC,Loong Air,China
@@ -249,7 +233,6 @@ IZ,AIZ,Arkia Israel Airlines,Israel
 J2,AHY,Azerbaijan Airlines,Azerbaijan
 J3,PLR,Northwestern Air,Canada
 J4,BDR,Badr Airlines,Sudan
-J0,BFL,Buffalo Airways,Canada
 J8,BVT,Berjaya Air,Malaysia
 J9,JZR,Jazeera Airways,Kuwait
 JA,JAT,JetSMART,Chile
@@ -264,7 +247,7 @@ JU,ASL,Air Serbia,Serbia
 JV,BLS,Bearskin Airlines,Canada
 JX,SJX,Starlux Airlines,Taiwan
 JY,IWY,InterCaribbean Airways,Turks and Caicos Islands
-JZ,JAP,JetSMART Per?,Peru
+JZ,JAP,JetSMART Peru,Peru
 K3,TQN,Taquan Air,United States
 K4,CKS,Kalitta Air,United States
 K6,KHV,Air Cambodia,Cambodia
@@ -272,9 +255,7 @@ K9,TEZ,TezJet,Kyrgyzstan
 KB,DRK,Druk Air,Bhutan
 KC,KZR,Air Astana,Kazakhstan
 KE,KAL,Korean Air,South Korea
-KG,LYM,Key Lime Air,United States
 KI,KAI,KaiserAir,United States
-KJ,AIH,Air Incheon,South Korea
 KL,KLM,KLM,Netherlands
 KN,CUA,China United Airlines,China
 KO,AER,Alaska Central Express,United States
@@ -302,8 +283,6 @@ LU,LXP,LATAM Express,Chile
 LX,SWR,Swiss International Air Lines,Switzerland
 LY,ELY,El Al Israel Airlines,Israel
 M5,KEN,Kenmore Air,United States
-M6,AJT,Amerijet International,United States
-M7,MAA,MasAir,Mexico
 M9,MSI,Motor Sich Airlines,Ukraine
 MB,MNB,MNG Airlines,Turkey
 MD,MDG,Air Madagascar,Madagascar
@@ -323,7 +302,6 @@ MV,RML,Air Mediterranean,Greece
 MX,MXY,Breeze Airways,United States
 MY,MWG,MASwings,Malaysia
 N0,NBT,Norse Atlantic Airways,Norway
-N2,QNK,Kabo Air,Nigeria
 N4,NWS,Nordwind Airlines,Russia
 N9,SHA,Shree Airlines,Nepal
 NC,JTE,National Jet Express,Australia
@@ -340,14 +318,13 @@ NT,IBB,Binter Canarias,Spain
 NU,JTA,Japan Transocean Air,Japan
 NX,AMU,Air Macau,Macao
 NZ,ANZ,Air New Zealand,New Zealand
-O3,CSS,SF Airlines,China
-O9,NOV,Nova Airways,Sudan
 OA,OAL,Olympic Air,Greece
 OB,BOV,Boliviana de Aviaci?n,Bolivia
 OD,MXD,Malindo Airways,Malaysia
 OH,JIA,PSA Airlines,United States
 OJ,OLA,Overland Airways,Nigeria
 OK,CSA,Czech Airlines,Czech Republic
+OL,PAO,Samoa Airways,Samoa
 OM,MGL,MIAT Mongolian Airlines,Mongolia
 ON,RON,Nauru Airlines,Nauru
 OO,SKW,SkyWest Airlines,United States
@@ -361,14 +338,12 @@ OZ,AAR,Asiana Airlines,South Korea
 P0,PFZ,Proflight Zambia,Zambia
 P5,RPB,AeroRep?blica,Colombia
 P6,PVG,Privilege Style,Spain
-P8,SRN,SprintAir,Poland
 PA,ABQ,Airblue,Pakistan
 PB,SPR,Provincial Airlines,Canada
 PC,PGT,Pegasus Airlines,Turkey
 PD,POE,Porter Airlines,Canada
 PE,PEV,People's,Austria
 PG,BKP,Bangkok Airways,Thailand
-PH,PAO,Polynesian Airlines,Samoa
 PJ,SPM,Air Saint Pierre,France
 PK,PIA,PIA,Pakistan
 PM,TOS,Tropic Air,Belize
@@ -410,7 +385,6 @@ RS,ASV,Air Seoul,South Korea
 RV,ROU,Air Canada Rouge,Canada
 RX,RXI,Riyadh Air,Saudi Arabia
 S4,RZO,Azores Airlines,Portugal
-S5,SDG,Star Air (India),India
 S7,SBI,S7 Airlines,Russia
 SA,SAA,South African Airways,South Africa
 SB,ACI,Aircalin,France
@@ -423,7 +397,6 @@ SK,SAS,Scandinavian Airlines,Sweden
 SL,TLM,Thai Lion Mentari,Thailand
 SM,MSC,Air Cairo,Egypt
 SN,BEL,Brussels Airlines,Belgium
-SO,HKA,Superior Aviation,United States
 SP,SAT,SATA Air Acores,Portugal
 SQ,SIA,Singapore Airlines,Singapore
 SR,SDR,Sundair,Germany
@@ -437,9 +410,7 @@ T5,TUA,Turkmenistan Airlines,Turkmenistan
 T7,TJT,Twin Jet,France
 TB,JAF,TUI fly Belgium,Belgium
 TC,ATC,Air Tanzania,Tanzania
-TE,IGA,Skytaxi,Poland
 TG,THA,Thai Airways International,Thailand
-TH,RMY,Raya Airways,Malaysia
 TI,TWI,Tailwind Airlines,Turkey
 TJ,GPD,Tradewind Aviation,United States
 TK,THY,Turkish Airlines,Turkey
@@ -474,11 +445,9 @@ V3,KRP,Carpatair,Romania
 V7,VOE,Volotea,Spain
 VA,VOZ,Virgin Australia,Australia
 VB,VIV,VivaAerobus,Mexico
-VC,VAL,Voyageur Airways,Canada
 VF,TKJ,AJet,Turkey
-VI,VDA,Volga-Dnepr Airlines,Russia
 VJ,VJC,Vietjet Air,Vietnam
-VL,LHX,City Airlines,Germany
+VL,LHX,Lufthansa City Airlines,Germany
 VN,HVN,Vietnam Airlines,Vietnam
 VR,TCV,TACV,Cape Verde
 VS,VIR,Virgin Atlantic,United Kingdom
@@ -512,7 +481,6 @@ XY,KNE,Flynas,Saudi Arabia
 Y4,VOI,Volaris,Mexico
 Y7,TYA,NordStar,Russia
 Y8,YZR,Suparna Airlines,China
-YI,RSI,Air Sunshine,United States
 YJ,AMV,AMC Airlines,Egypt
 YL,LWA,Libyan Wings,Libya
 YC,LLM,Yamal Airlines,Russia
@@ -530,6 +498,6 @@ ZE,ESR,Eastar Jet,South Korea
 ZG,TZP,Zipair Tokyo,Japan
 ZH,CSZ,Shenzhen Airlines,China
 ZL,RXA,Regional Express,Australia
-ZP,AZP,Amaszonas Paraguay,Paraguay
+ZP,AZP,Paranair,Paraguay
 ZT,AWC,Titan Airways,United Kingdom
 ZW,AWI,Air Wisconsin,United States
